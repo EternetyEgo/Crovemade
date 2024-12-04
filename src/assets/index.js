@@ -1,0 +1,10 @@
+import hero from '../assets/hero.png'
+import card from '../assets/card.png'
+import card1 from '../assets/card1.png'
+import phone from '../assets/phone.png'
+import bottom from '../assets/bottom.png'
+import home from '../assets/home.png'
+import people from '../assets/people.png'
+import footerTop from '../assets/footerTop.png'
+import footer from '../assets/footer.png'
+export{hero, card, card1, phone, bottom, home, people, footerTop, footer}
